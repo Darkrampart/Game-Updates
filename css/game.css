@@ -6,8 +6,8 @@
 .background td { padding: 0;          }
 .lava          { background: rgb(255, 0, 0); }
 .wall          { background: black;   }
-.floater       {background: yellow;}
-
+.coin       {background: yellow;}
+.enemy  {background :red;}
 .actor  { position: absolute;  }
 .player { background: rgb(64, 64, 64); }
 
